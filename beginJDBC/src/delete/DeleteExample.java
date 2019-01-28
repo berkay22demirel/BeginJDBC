@@ -1,4 +1,4 @@
-package deleteexample;
+package delete;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

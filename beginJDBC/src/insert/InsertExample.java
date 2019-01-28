@@ -1,4 +1,4 @@
-package insertexample;
+package insert;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
